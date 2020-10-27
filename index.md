@@ -8,7 +8,7 @@
 layout: home
 ---
 
-# Probabilistic object detection: Strenghts, Weaknesses, and Opportunities
+# Probabilistic object detection: Strengths, Weaknesses, and Opportunities
 
 Authors: Dhaivat Bhatt\*, Dishank Bansal\*, Gunshi Gupta\*, Hanju Lee, Krishna Murthy Jatavallabhula, Liam Paull
 
