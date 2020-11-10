@@ -21,4 +21,4 @@ Presented at the ICML AIAD 2020 Workshop
 
 We survey and describe the strengths of current probabilistic deep learning methods and how they are employed for object detection. This is followed by a critique of the major weaknesses of these methods, and we conclude by analyzing the research opportunities that open up.
 
-Paper can be found at link.
+Paper can be found [here](./assets/ICML_AIAD2020.pdf).
