@@ -11,6 +11,7 @@ Curated resources of probabilistic object detection papers.
 - [Gaussian YOLOv3: An accurate and fast object detector using lo- calization uncertainty for autonomous driving] (https://arxiv.org/pdf/1904.04620.pdf) | ICCV 2019
 - [Bounding Box Regression with Uncertainty for Accurate Object Detection](https://arxiv.org/pdf/1809.08545.pdf) | CVPR 2020
 - [Uncertainty estimation in one-stage object detection](https://arxiv.org/pdf/1905.10296.pdf) | ITSC 2019
+- [Evaluating Merging Strategies for Sampling-based Uncertainty Techniques in Object Detection](https://arxiv.org/pdf/1809.06006v1.pdf) | ICRA 2019
 
 ## 3D Object Detection
 
