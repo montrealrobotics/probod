@@ -27,5 +27,11 @@ Curated resources of probabilistic object detection papers.
 - [What uncertainties do we need in Bayesian deep learning for computer vision?] (https://arxiv.org/pdf/1703.04977.pdf) | NeurIPS 2017
 - [Bayesian Multi-Object Tracking Using Motion Context from Multiple Objects](https://faculty.ucmerced.edu/mhyang/papers/wacv15_mot.pdf) | WACV 2015
 
+## Related Awesomes
+
+- [Awesome Object Detection](https://github.com/amusi/awesome-object-detection)
+- [Awesome Bayesian Deep Learning](https://github.com/robi56/awesome-bayesian-deep-learning)
+- [Awesome Uncertainty Quantification in Deep Learning](https://github.com/ahmedmalaa/deep-learning-uncertainty) 
+
 
 
