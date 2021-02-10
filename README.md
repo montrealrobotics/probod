@@ -8,7 +8,7 @@ Curated resources of probabilistic object detection papers.
 ## 2D Object Detection
 
 - [BayesOD: A Bayesian Approach for Uncertainty Estimation in Deep Object Detectors](https://arxiv.org/pdf/1903.03838.pdf) | ICRA 2020 
-- [Gaussian YOLOv3: An accurate and fast object detector using lo- calization uncertainty for autonomous driving] (https://arxiv.org/pdf/1904.04620.pdf) | ICCV 2019
+- [Gaussian YOLOv3: An accurate and fast object detector using localization uncertainty for autonomous driving] (https://arxiv.org/pdf/1904.04620.pdf) | ICCV 2019
 - [Bounding Box Regression with Uncertainty for Accurate Object Detection](https://arxiv.org/pdf/1809.08545.pdf) | CVPR 2020
 - [Uncertainty estimation in one-stage object detection](https://arxiv.org/pdf/1905.10296.pdf) | ITSC 2019
 - [Evaluating Merging Strategies for Sampling-based Uncertainty Techniques in Object Detection](https://arxiv.org/pdf/1809.06006v1.pdf) | ICRA 2019
@@ -24,7 +24,7 @@ Curated resources of probabilistic object detection papers.
 ## Related Papers
 
 - [Probabilistic Object Detection: Definition and Evaluation](https://arxiv.org/pdf/1811.10800.pdf) | WACV 2020
-- [What uncertainties do we need in Bayesian deep learning for computer vision?] (https://arxiv.org/pdf/1703.04977.pdf) | NeurIPS 2017
+- [What uncertainties do we need in Bayesian deep learning for computer vision] (https://arxiv.org/pdf/1703.04977.pdf) | NeurIPS 2017
 - [Bayesian Multi-Object Tracking Using Motion Context from Multiple Objects](https://faculty.ucmerced.edu/mhyang/papers/wacv15_mot.pdf) | WACV 2015
 
 ## Related Awesomes
